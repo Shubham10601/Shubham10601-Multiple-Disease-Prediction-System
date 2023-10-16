@@ -1,0 +1,11 @@
+Libraries which we have to install first after installing the anaconda navigator and making our own environment to run our code and Models with the help of Spyder IDE. Just search the name of library.pypi
+1) pip install streamlit
+2) streamlit hello
+3) pip install scikit-learn
+4) pip install numpy
+5) pip install matplotlib
+
+Libraries which we use make prediction in this streamlit web apge
+1)pip install pickle5    (https://pypi.org/project/pickle5/)  
+2)pip install streamlit  (https://pypi.org/project/streamlit/)     3)pip install streamlit-option-menu
+             (https://pypi.org/project/streamlit-option-menu/)

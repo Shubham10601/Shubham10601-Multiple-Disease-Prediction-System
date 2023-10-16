@@ -1,0 +1,5 @@
+Diabetes - https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
+Heart Disease - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+Parkinsons - https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
